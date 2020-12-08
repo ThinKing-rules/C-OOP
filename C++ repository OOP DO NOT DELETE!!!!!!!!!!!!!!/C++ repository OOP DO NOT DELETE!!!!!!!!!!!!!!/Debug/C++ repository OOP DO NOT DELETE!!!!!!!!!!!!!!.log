@@ -1,13 +1,2 @@
-﻿  Header.cpp
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(22,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(29,9): error C2065: cout: необъявленный идентификатор
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(32,9): error C2065: cout: необъявленный идентификатор
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(33,9): error C2065: cin: необъявленный идентификатор
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(45,13): error C2065: cout: необъявленный идентификатор
-  Main.cpp
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(22,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(29,9): error C2065: cout: необъявленный идентификатор
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(32,9): error C2065: cout: необъявленный идентификатор
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(33,9): error C2065: cin: необъявленный идентификатор
-C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Header.h(45,13): error C2065: cout: необъявленный идентификатор
-  Создание кода...
+﻿  Main.cpp
+  C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!.vcxproj -> C:\Users\Взрослая академия\source\repos\C-OOP\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!\Debug\C++ repository OOP DO NOT DELETE!!!!!!!!!!!!!!.exe
